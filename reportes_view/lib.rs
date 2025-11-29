@@ -10,6 +10,8 @@ mod reportes_view {
     pub struct ReportesView {
         /// Stores a single `bool` value on the storage.
         value: bool,
+
+        
     }
 
     impl ReportesView {
